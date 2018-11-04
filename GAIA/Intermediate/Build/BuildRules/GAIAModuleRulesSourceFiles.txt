@@ -1,0 +1,3 @@
+C:\Users\spenc\Documents\GitHub\GAIA\GAIA\Source\GAIA\GAIA.Build.cs
+C:\Users\spenc\Documents\GitHub\GAIA\GAIA\Source\GAIA.Target.cs
+C:\Users\spenc\Documents\GitHub\GAIA\GAIA\Source\GAIAEditor.Target.cs
